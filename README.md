@@ -32,10 +32,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=light" height="50" />
   
   <!-- Backend & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" height="50" />
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" />
   
   <!-- Tools & Cloud -->
   <img src="https://skillicons.dev/icons?i=git,linux,aws,vscode,androidstudio&theme=light" height="50" />
